@@ -340,3 +340,14 @@ a {
   width: 60px;
   height: 60px;
 }
+
+@media screen and (max-width:480px) {
+  nav{
+    width: 100%;
+  }
+  section{
+    width: 100%;
+
+  }
+  
+}
